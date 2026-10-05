@@ -10,6 +10,8 @@
 
 DocSense is a Streamlit app for retrieval-augmented question answering over your own documents. Upload files, index them into a vector store, and chat with them. Answers come from the retrieved passages, and each response shows the source chunks it used.
 
+---
+
 ## Screenshots
 
 **App preview**
