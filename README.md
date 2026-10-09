@@ -124,6 +124,7 @@ Released under the [MIT License](LICENSE).
 ## Author
 
 **Chowdri Furkhan**
+
 B.E. in Artificial Intelligence and Machine Learning
 
 - GitHub: [@Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
