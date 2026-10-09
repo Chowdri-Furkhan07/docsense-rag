@@ -121,6 +121,8 @@ The app is served on port 8501, and the container health check uses Streamlit's 
 
 Released under the [MIT License](LICENSE).
 
+---
+
 ## Author
 
 **Chowdri Furkhan**
