@@ -117,6 +117,8 @@ The app is served on port 8501, and the container health check uses Streamlit's 
 - Groq model availability changes over time. If you get a `model_not_found` error, check the [current model list](https://console.groq.com/docs/models) for your plan.
 - The embedding model downloads on first run, so the first document processing can take longer.
 
+---
+
 ## License
 
 Released under the [MIT License](LICENSE).
