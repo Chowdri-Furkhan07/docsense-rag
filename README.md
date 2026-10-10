@@ -42,6 +42,8 @@ DocSense is a Streamlit app for retrieval-augmented question answering over your
 - Conversation history is passed to the chain, so follow-up questions work
 - Docker support with a non-root user and a health check
 
+---
+
 ## Tech Stack
 
 | Area | Tools |
