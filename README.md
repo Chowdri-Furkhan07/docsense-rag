@@ -30,6 +30,8 @@ DocSense is a Streamlit app for retrieval-augmented question answering over your
 
 ![Retrieval](Screenshots/Retrieval.png)
 
+---
+
 ## Features
 
 - Upload and index multiple documents in one session
