@@ -56,6 +56,8 @@ DocSense is a Streamlit app for retrieval-augmented question answering over your
 | Document loading | `pypdf`, `docx2txt` |
 | Configuration | `pydantic`, `pydantic-settings`, `python-dotenv` |
 
+---
+
 ## Project Structure
 
 ```
