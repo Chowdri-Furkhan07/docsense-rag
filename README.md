@@ -75,6 +75,8 @@ DocSense is a Streamlit app for retrieval-augmented question answering over your
 └── requirements-dev.txt
 ```
 
+---
+
 ## Getting Started
 
 ### Prerequisites
