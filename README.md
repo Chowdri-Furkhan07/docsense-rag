@@ -102,6 +102,8 @@ streamlit run app.py
 
 Open http://localhost:8501.
 
+---
+
 ## Usage
 
 1. Enter your Groq API key in the sidebar.
