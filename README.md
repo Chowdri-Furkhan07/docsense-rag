@@ -124,6 +124,8 @@ docker run -p 8501:8501 docsense-rag
 
 The app is served on port 8501, and the container health check uses Streamlit's `/_stcore/health` endpoint.
 
+---
+
 ## Notes
 
 - Groq model availability changes over time. If you get a `model_not_found` error, check the [current model list](https://console.groq.com/docs/models) for your plan.
