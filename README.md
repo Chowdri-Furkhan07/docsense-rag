@@ -113,6 +113,8 @@ Open http://localhost:8501.
 
 Use **Clear conversation** to reset the chat. Processing new documents also resets it.
 
+---
+
 ## Docker
 
 ```bash
